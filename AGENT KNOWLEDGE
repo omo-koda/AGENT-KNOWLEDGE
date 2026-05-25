@@ -56,7 +56,7 @@ This document lists **all repositories** in the Omo-koda2 / Technosis Sovereign 
 
 ## 1. Connecting Repos (Active / Integrated)
 
-These repositories are directly part of the Omo-koda2 ecosystem.
+These repositories are inspiration for the Omo-koda2 ecosystem.
 
 | Repo | Link | Role | Status |
 |------|------|------|--------|
@@ -80,7 +80,7 @@ These repositories are directly part of the Omo-koda2 ecosystem.
 | **Twelve-thrones** | https://github.com/Bino-Elgua/Twelve-thrones | Jury/governance | Connected |
 | **Zangbeto** | https://github.com/Bino-Elgua/Zangbeto | Red team audit / security | Connected |
 
-### 2. Inspiration Pattern Repos (Studied Only)
+### 2. More Inspiration Pattern Repos (Studied Only)
 
 These are used for architectural patterns and ideas only (no direct code copy).
 
@@ -157,8 +157,8 @@ Lightweight swarm intelligence frameworks.
 
 | Repo | Link | Role |
 |------|------|------|
-| **Technosis-Sovereign-Ecosystem** | https://github.com/Bino-Elgua/Technosis-Sovereign-Ecosystem | Meta repository holding links to all others |
-| **Oso-control-center** | https://github.com/Bino-Elgua/Oso-control-center | Dashboard / control center for the full ecosystem |
+| **Technosis-Sovereign-Ecosystem** | https://github.com/omo-koda/Technosis-Sovereign-Ecosystem | Meta repository holding links to all others |
+| **Oso-control-center** | https://github.com/omo-koda/Oso-control-center | Dashboard / control center for the full ecosystem |
 
 ---
 
@@ -298,24 +298,24 @@ Would you like me to generate the full ready-to-commit Markdown content for any 
 So building a world for "non human"="agents" and "humans"
  Bring it all together 
 
- https://github.com/Bino-Elgua/Osovm the heart of the ecosystem 
- https://github.com/Bino-Elgua/Ifascript entropy divination 
-https://github.com/Bino-Elgua/Techgnosis smart contracts for human liability 
-https://github.com/Bino-Elgua/Zangbeto red team audit system 
-https://github.com/Bino-Elgua/Nex- agent framework
-https://github.com/Bino-Elgua/ase-vault stores all opcodes and ecosystem info
-https://github.com/Bino-Elgua/AIO work economy for humans and agents
-https://github.com/Bino-Elgua/organism-core connects the system
-https://github.com/Bino-Elgua/Npc-forge NPC Agents
-https://github.com/Bino-Elgua/Agent.TV media facing aspect of the ecosystem 
-https://github.com/Bino-Elgua/Scarabswarm possibly ble concept for ecosystem 
-https://github.com/Bino-Elgua/Swibe Agent Language 
-https://github.com/Bino-Elgua/Technosis-Sovereign-Ecosystem holds all repos
-https://github.com/Bino-Elgua/vanity-cloakseed wallet for  "non humans"
-https://github.com/Bino-Elgua/Twelve-thrones the Jury
-https://github.com/Bino-Elgua/ritual-codex calander 
-https://github.com/Bino-Elgua/paradigm Multi-Paradigm Reasoning
-https://github.com/Bino-Elgua/Oso-control-center dashboard for
+ https://github.com/omo-koda/Osovm the heart of the ecosystem 
+ https://github.com/omo-koda/ifascript entropy divination 
+https://github.com/omo-koda/Techgnosis smart contracts for human liability 
+https://github.com/omo-koda/Zangbeto red team audit system 
+https://github.com/omo-koda/Nex- agent framework
+https://github.com/omo-koda/ase-vault stores all opcodes and ecosystem info
+https://github.com/omo-koda/AIO work economy for humans and agents
+https://github.com/omo-koda/organism-core connects the system
+https://github.com/omo-koda/Npc-forge NPC Agents
+https://github.com/omo-koda/Agent.TV media facing aspect of the ecosystem 
+https://github.com/omo-koda/Scarabswarm possibly ble concept for ecosystem 
+https://github.com/omo-koda/Swibe Agent Language 
+https://github.com/omo-koda/Technosis-Sovereign-Ecosystem holds all repos
+https://github.com/omo-koda/vanity2 wallet for  "non humans"
+https://github.com/omo-koda/Twelve-thrones the Jury
+https://github.com/omo-koda/Ritual-Codex-Julia calander 
+https://github.com/omo-koda/paradigm Multi-Paradigm Reasoning
+https://github.com/omo-koda/Oso-control-center dashboard for
 https://github.com/omo-koda/Omo-Koda2 the first agent the lives in the machine
 **✅ Here are both drafts, ready to use.**
 
@@ -655,7 +655,7 @@ hermetic = { path = "../omokoda-hermetic" }         # Behavioral laws
 ```json
 {
   "dependencies": {
-    "@bino-elgua/swibe": "file:../../Swibe",
+    "@omo-koda/swibe": "file:../../Swibe",
     "@omo-koda/bipon39": "file:../../Bipon39-Rust/pkg",
     "@omo-koda/ifascript": "file:../../Ifascript/pkg",
     "sui.js": "^0.54.1"
